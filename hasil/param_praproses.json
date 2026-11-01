@@ -1,0 +1,10 @@
+{
+    "lebar": 640,
+    "gamma": 1.0,
+    "clahe_clip": 2.0,
+    "clahe_tile": 8,
+    "penapis": "median",
+    "kernel": 3,
+    "sigma": 1.0,
+    "tajam_k": 0.0
+}
