@@ -1,0 +1,13 @@
+{
+  "kanal": 2,
+  "k": 3,
+  "se_bentuk": "elips",
+  "se_open": 7,
+  "se_close": 7,
+  "luas_min": 50,
+  "bulat_min": 0.5,
+  "rasio_maks": 1.8,
+  "batas_ringan": 0.1,
+  "batas_berat": 2.0,
+  "mm_per_px": 0.4375
+}
